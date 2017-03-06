@@ -1,12 +1,12 @@
 {
-    "name": "brayniverse/laravel-router-macros",
-    "description": "A collection of useful router macros.",
+    "name": "brayniverse/laravel-route-macros",
+    "description": "A collection of useful route macros.",
     "keywords": [
         "laravel",
         "router",
         "macros"
     ],
-    "homepage": "https://github.com/brayniverse/laravel-router-macros",
+    "homepage": "https://github.com/brayniverse/laravel-route-macros",
     "license": "MIT",
     "authors": [
         {
