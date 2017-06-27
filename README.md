@@ -17,7 +17,7 @@ $ composer require brayniverse/laravel-route-macros
 Then add the following to your providers array in `config/app.php`.
 
 ```php
-Brayniverse\LaravelRouteMacros\ServiceProvider::class
+Brayniverse\RouteMacros\ServiceProvider::class
 ```
 
 ## Usage
